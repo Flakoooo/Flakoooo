@@ -21,7 +21,7 @@
     </div>
   </div>
 </div>
-<div>
+<div align="center">
   <h2>
     🎓 About Me
   </h2>
@@ -35,7 +35,7 @@
     Currently, I'm focusing on C#/.NET backend development, distributed systems, APIs, databases and software architecture.
   </p>
 </div>
-<div>
+<div align="center">
   <h2>
     🛠️ Tech Stack
   </h2>
