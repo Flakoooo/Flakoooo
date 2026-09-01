@@ -15,6 +15,9 @@
       📫 Contact
     </h3>
     <div align="center">
+      <a href="https://t.me" target="_blank">
+        <img src="telegram.svg" alt="Telegram" width="30" height="30" />
+      </a>
       <a href="https://t.me/Flakooooooooo">
         <svg role="img" viewBox="0 0 24 24" width="35" height="35" xmlns="http://w3.org">
           <title>Telegram | @Flakooooooooo</title>
