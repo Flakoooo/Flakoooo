@@ -16,7 +16,7 @@
     </h3>
     <div align="center">
       <a href="https://t.me/Flakooooooooo">
-        <img src="telegram.svg" alt="Telegram | @Flakooooooooo" width="35" height="35" />
+        <img src="telegram-logo.svg" alt="Telegram | @Flakooooooooo" width="35" height="35" />
       </a>
     </div>
   </div>
